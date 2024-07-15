@@ -5,7 +5,7 @@ import Link from "next/link";
 
 // Image exports
 import logo from "@/public/assets/icons/logo-full.svg";
-import sidePic from "@/public/assets/images/onboarding-img.png";
+import sidePic from "@/public/assets/images/stf.jpg";
 import PasskeyModal from "@/components/PasskeyModal";
 
 export default function Home({ searchParams }: SearchParamProps) {
